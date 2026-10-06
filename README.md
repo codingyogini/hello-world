@@ -7,4 +7,4 @@ Then, I got curious about deep learning.
 These days I'm playing with agents in Claude. 
 I'm also a yogini (female yogi), hence I'm a coding yogini :) 
 For my professional bio, see: Irenepylypenko.com 
-# This is a comment 
+
